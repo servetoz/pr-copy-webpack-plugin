@@ -1,5 +1,4 @@
 [![npm][npm]][npm-url]
-[![node][node]][node-url]
 [![test][test]][test-url]
 
 <h4 style="background: red; color: white">
@@ -410,12 +409,8 @@ and so on...
   <tbody>
 </table>
 
-
 [npm]: https://img.shields.io/npm/v/copy-webpack-plugin-advanced.svg
 [npm-url]: https://npmjs.com/package/copy-webpack-plugin-advanced
 
-[node]: https://img.shields.io/node/v/copy-webpack-plugin-advanced.svg
-[node-url]: https://nodejs.org
-
-[test]: https://secure.travis-ci.org/meeroslav/copy-webpack-plugin-advanced.svg
-[test-url]: http://travis-ci.org/meeroslav/copy-webpack-plugin-advanced
+[test]: https://secure.travis-ci.org/meeroslav/pr-copy-webpack-plugin.svg
+[test-url]: http://travis-ci.org/meeroslav/pr-copy-webpack-plugin
