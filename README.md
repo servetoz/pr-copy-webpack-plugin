@@ -1,9 +1,10 @@
 [![npm][npm]][npm-url]
 [![node][node]][node-url]
-[![deps][deps]][deps-url]
 [![test][test]][test-url]
-[![coverage][cover]][cover-url]
-[![chat][chat]][chat-url]
+
+<h4 style="background: red; color: white">
+This is a temporary fork until pull request gets accepted on the original <strong>copy-webpack-plugin</strong>.
+</h4>
 
 <div align="center">
   <a href="https://github.com/webpack/webpack">
@@ -410,20 +411,11 @@ and so on...
 </table>
 
 
-[npm]: https://img.shields.io/npm/v/copy-webpack-plugin.svg
-[npm-url]: https://npmjs.com/package/copy-webpack-plugin
+[npm]: https://img.shields.io/npm/v/copy-webpack-plugin-advanced.svg
+[npm-url]: https://npmjs.com/package/copy-webpack-plugin-advanced
 
-[node]: https://img.shields.io/node/v/copy-webpack-plugin.svg
+[node]: https://img.shields.io/node/v/copy-webpack-plugin-advanced.svg
 [node-url]: https://nodejs.org
 
-[deps]: https://david-dm.org/webpack-contrib/copy-webpack-plugin.svg
-[deps-url]: https://david-dm.org/webpack-contrib/copy-webpack-plugin
-
-[test]: https://secure.travis-ci.org/webpack-contrib/copy-webpack-plugin.svg
-[test-url]: http://travis-ci.org/webpack-contrib/copy-webpack-plugin
-
-[cover]: https://codecov.io/gh/webpack-contrib/copy-webpack-plugin/branch/master/graph/badge.svg
-[cover-url]: https://codecov.io/gh/webpack-contrib/copy-webpack-plugin
-
-[chat]: https://img.shields.io/badge/gitter-webpack%2Fwebpack-brightgreen.svg
-[chat-url]: https://gitter.im/webpack/webpack
+[test]: https://secure.travis-ci.org/meeroslav/copy-webpack-plugin-advanced.svg
+[test-url]: http://travis-ci.org/meeroslav/copy-webpack-plugin-advanced

@@ -1,8 +1,8 @@
 {
-  "name": "copy-webpack-plugin",
-  "version": "4.5.1",
+  "name": "copy-webpack-plugin-advanced",
+  "version": "2.0.0",
   "description": "Copy files && directories with webpack",
-  "author": "Len Boyette",
+  "author": "Miroslav Jonas",
   "license": "MIT",
   "main": "dist/index.js",
   "engines": {
@@ -41,9 +41,9 @@
     "standard-version": "^4.2.0",
     "is-gzip": "^2.0.0"
   },
-  "homepage": "https://github.com/webpack-contrib/copy-webpack-plugin",
-  "bugs": "https://github.com/webpack-contrib/copy-webpack-plugin/issues",
-  "repository": "https://github.com/webpack-contrib/copy-webpack-plugin.git",
+  "homepage": "https://github.com/meeroslav/pr-copy-webpack-plugin",
+  "bugs": "https://github.com/meeroslav/pr-copy-webpack-plugin/issues",
+  "repository": "https://github.com/meeroslav/pr-copy-webpack-plugin.git",
   "keywords": [
     "webpack",
     "plugin",
